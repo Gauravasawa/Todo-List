@@ -1,3 +1,7 @@
+#Simple but powerfull Todo-List
+#You can Add or Delete the text
+#You can apply filters
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
